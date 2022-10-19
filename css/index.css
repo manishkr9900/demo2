@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.h{
+  height: 500px;  
+  width: 100%;
+}
+nav{
+    margin-bottom: 5px;
+}
+.a{
+    border-radius: 50%;
+    width: 90%;
+}
+.b{
+    margin-top: 20px;
+}
+.map-responsive iframe{
+    width: 100%;
+    height: 300px;
+    margin-right:50% ;
+}
