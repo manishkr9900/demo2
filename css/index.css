@@ -3,6 +3,8 @@
     padding:0;
     overflow:hidden;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    word-wrap: break-word;
 }
 .h{
   height: 500px;  
